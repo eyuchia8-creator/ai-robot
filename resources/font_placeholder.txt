@@ -1,0 +1,10 @@
+# 字体文件
+# 请下载 Noto Sans SC (思源黑体) 的 Regular 版本，重命名为 NotoSansSC-Regular.ttf 放到此目录
+#
+# 下载地址（择一）：
+# 1. Google Fonts: https://fonts.google.com/noto/specimen/Noto+Sans+SC
+# 2. GitHub: https://github.com/notofonts/noto-cjk/releases
+#
+# 文件大小约 5-8 MB
+#
+# 也可使用其他 .ttf 中文字体，修改 app_config.ini 中 [display] font_path 即可
